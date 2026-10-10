@@ -2,10 +2,13 @@
 
 A modern, feature-packed Flutter mobile application designed for tracking, managing, and calculating monthly and daily bills with receipt photo attachments, multi-currency support, and full bilingual localization (English & Arabic RTL).
 
+👉 **[🌐 Launch Live Web Demo](https://mhmdjoe.github.io/BillCollector/)** (Try it live in your browser!)
+
 ---
 
 ## 🌟 Key Features
 
+- 🌐 **Live Web Demo**: Open and test the application directly in your web browser without installing anything.
 - 📊 **Daily & Monthly Calculations**: Real-time spending progress header calculating total bills due, paid amounts, and remaining balances.
 - 📸 **Receipt & Bill Photo Capture**: Attach photos directly from the **Camera** or **Mobile Gallery** with an integrated full-screen receipt viewer.
 - 🌐 **Bilingual Localization (English / العربية)**: Instant toggling between English (LTR) and Arabic (RTL) across the entire UI.
@@ -20,7 +23,7 @@ A modern, feature-packed Flutter mobile application designed for tracking, manag
 
 | Layer | Technology |
 | :--- | :--- |
-| **Framework** | Flutter (Dart SDK 3.x) |
+| **Framework** | Flutter (Dart SDK 3.x) & Flutter Web |
 | **Design System** | Material Design 3 |
 | **Local Storage** | `shared_preferences` |
 | **Media Handling** | `image_picker` (Camera & Mobile Gallery) |
